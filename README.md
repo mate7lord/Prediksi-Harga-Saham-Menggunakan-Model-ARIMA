@@ -33,6 +33,13 @@ Untuk menjalankan proyek ini, Anda perlu menginstal pustaka yang diperlukan. And
 
 ```bash
 pip install pandas numpy matplotlib \
-    seaborn yfinance statsmodels scikit-learn
+    seaborn yfinance statsmodels scikit-learn\`\`\`
+
+
+# Penggunaan
+
+
+
+
 
 
