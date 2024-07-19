@@ -11,7 +11,6 @@ Proyek ini bertujuan untuk memprediksi harga saham masa depan menggunakan model 
 5. [Struktur Proyek](#struktur-proyek)
 6. [Hasil](#hasil)
 7. [Kontribusi](#kontribusi)
-8. [Lisensi](#lisensi)
 
 ## Pendahuluan
 
@@ -33,4 +32,7 @@ Prediksi harga saham adalah topik yang menarik dalam bidang data science dan keu
 Untuk menjalankan proyek ini, Anda perlu menginstal pustaka yang diperlukan. Anda bisa melakukannya dengan perintah berikut:
 
 ```bash
-pip install pandas numpy matplotlib seaborn yfinance statsmodels scikit-learn
+pip install pandas numpy matplotlib \
+    seaborn yfinance statsmodels scikit-learn
+
+
